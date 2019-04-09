@@ -1,0 +1,11 @@
+{
+  "id": 100,
+  "name": "Coca-Cola Lime",
+  "producer": {
+    "id": "200"
+    "name": "Coca-Cola Company",
+    "country": "USA"
+  },
+  "price": 2.5,
+  "ingredients": ["water", "sugar", "e150d", "lime syrup"]
+}

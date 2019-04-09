@@ -1,0 +1,1 @@
+data class Producer(val id: Int, val name: String, val country String)
